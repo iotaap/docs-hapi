@@ -23,10 +23,7 @@ Our HAPI Library uses JSON as the default format for published messages. Status 
     "battery": 78,
     "uptime": 1343,
     "api_version": "1.2.5",
-    "fw_version": "2.5.7",
-    "sent": 246184551,
-    "received": 131,
-    "disconnects": 2
+    "fw_version": "2.5.7"
 }
 ```
 
@@ -36,6 +33,3 @@ Our HAPI Library uses JSON as the default format for published messages. Status 
 - uptime `(number)`: time since power-up in seconds
 - api_version `(string)`: IoTaaP HAPI Library version
 - fw_version `(string)`: your firmware version
-- sent `(number)`: number of sent messages since power-up
-- received `(number)`: number of received messages since power-up
-- disconnects `(number)`: number of communication disconnects
