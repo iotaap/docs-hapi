@@ -9,6 +9,8 @@ nav:
   - Publish: publish.md
   - Websockets: websockets.md
   - OTA Update: otaUpdate.md
+  - Device OTA: deviceOta.md
+  - Group OTA: groupOta.md
         
 # Copyright
 copyright: 'Copyright IoTaaP'
