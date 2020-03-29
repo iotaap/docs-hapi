@@ -8,6 +8,7 @@ nav:
   - HAPI Publish: hapiPublish.md
   - Publish: publish.md
   - Websockets: websockets.md
+  - OTA Update: otaUpdate.md
         
 # Copyright
 copyright: 'Copyright IoTaaP'
