@@ -5,12 +5,12 @@ repo_url: 'https://github.com/iotaap/docs-hapi'
 nav:
   - Home: index.md
   - Device Status: deviceStatus.md
-  - HAPI Publish: hapiPublish.md
-  - Publish: publish.md
   - Websockets: websockets.md
   - OTA Update: otaUpdate.md
   - Device OTA: deviceOta.md
   - Group OTA: groupOta.md
+  - HAPI Class: hapi-class.md
+  - Functions: functions.md
         
 # Copyright
 copyright: 'Copyright IoTaaP'

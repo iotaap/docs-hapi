@@ -1,7 +1,7 @@
 # IoTaaP HAPI Documentation
 
 IoTaaP Hardware API is a special library that connects your Hardware with [IoTaaP Cloud Console](https://console.iotaap.io), just provide your credentials
-and start trasnfering your data and controlling your device remotely. IoTaaP HAPI gives you the possibility to upgrade your devices firmware over the air (OTA).
+and start transfering your data and controlling your device remotely. IoTaaP HAPI gives you the possibility to upgrade your devices firmware over the air (OTA).
 
 ## HAPI Reference
 
