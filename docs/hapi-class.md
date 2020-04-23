@@ -18,6 +18,9 @@
 | unsubscribe            | int      | Unsubscribe from the specific topic                                               |
 | apiLoop*               | void     | API function that will publish IoTaaP input states                                |
 | callbackInnerFunction* | void     | Inner function to be used for remote API-like output controller                   |
+| enableUpdates          | void     | Enables automatic updates (enabled by default)                                    |
+| disableUpdates         | void     | Disables automatic updates (enabled by default)                                   |
+| checkUpdate            | void     | Checks if new firmware version is available on the server                         |
 
 !!! info "* - WIP"
     **callbackInnerFunction** function is still in alpha phase and should not be used in production code

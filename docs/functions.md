@@ -113,3 +113,15 @@ Inner function to be used for remote API-like output controller. Function should
 - **topic** - Callback topic parameter (pass `topic` parameter from the MQTT callback function)
 - **message** - Callback message parameter (pass `message` parameter from the MQTT callback function)
 - **length** - Callback length parameter (pass `length` parameter from the MQTT callback function)
+
+### enableUpdates()
+Enables automatic updates (enabled by default)
+
+### disableUpdates()
+Disables automatic updates (enabled by default)
+
+### checkUpdate()
+Checks if new firmware version is available on the server.
+If new version is different then the current OTA update will be triggered. Function is called
+periodically if updates are enabled.
+
