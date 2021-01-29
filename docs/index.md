@@ -1,5 +1,10 @@
 # IoTaaP HAPI Documentation
 
+!!! warning "Switching to IoTaaP OS"
+    Please be aware that this library is deprecated and we have introduced IoTaaP OS from 2021-01-29, and for any new project
+    we recommend using IoTaaP OS, although IoTaaP HAPI will still be available.
+    [**IoTaaP OS is on GitHub**](https://github.com/iotaap/iotaap-os)
+
 IoTaaP Hardware API is a special library that connects your Hardware with [IoTaaP Cloud Console](https://console.iotaap.io), just provide your credentials
 and start transfering your data and controlling your device remotely. IoTaaP HAPI gives you the possibility to upgrade your devices firmware over the air (OTA).
 
