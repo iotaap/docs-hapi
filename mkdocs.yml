@@ -10,13 +10,13 @@ nav:
   - Device OTA: deviceOta.md
   - Group OTA: groupOta.md
   - HAPI Class: hapi-class.md
-  - Functions: functions.mda
+  - Functions: functions.md
         
 copyright: 'Copyright &copy; IoTaaP'
 
 theme: 
-   name: material
-   palette:
+    name: material
+    palette:
         primary: 'light-blue'
         accent: 'deep-purple'
     logo: 'images/logo.png'
